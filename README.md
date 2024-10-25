@@ -8,15 +8,6 @@ Next.js, em conjunto com React, fornece uma estrutura eficiente para criar aplic
 ```bash
 npx create-next-app@latest
 
-
-Ao configurar o projeto, o assistente oferece algumas opções de personalização, como:
-
-- Nome do projeto
-- Escolha entre TypeScript ou JavaScript
-- Uso do Tailwind CSS como framework de estilo
-- Configuração do ESLint para padronizar o código
-- E outros recursos opcionais
-
 ### Principais Arquivos
 
 #### package.json
